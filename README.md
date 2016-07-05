@@ -1,2 +1,3 @@
 # fb_topic_maps
-Here are the files related to the topic map explore and json file export
+The repo contains two python files. 1) facebook_topic_map_explore... Explores the data and produces some basic plots, including folder of map plots for each topic in plotly, along with the plots data for the gender equality topic story. 2) topics_export_GEOjson which exports the data for each topic as compared to the national avg for that topic to json. 
+
