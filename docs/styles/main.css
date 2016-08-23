@@ -1,0 +1,54 @@
+path {
+  /*fill: #ccc;*/
+/*  stroke: #fff;
+  stroke-width: .5px;*/
+}
+
+.topic-RegulationsTheSizeofGovernment {
+	fill:rgb(141,211,199);
+	background:rgb(141,211,199);
+}
+.topic-Guns {
+	fill:rgb(255,255,179);
+	background:rgb(255,255,179);
+}
+.topic-PublicHealth {
+	fill:rgb(190,186,218);
+	background:rgb(190,186,218);
+}
+.topic-DrugPolicy {
+	fill:rgb(251,128,114);
+	background:rgb(251,128,114);
+}
+.topic-Abortion {
+	fill:rgb(128,177,211);
+	background:rgb(128,177,211);
+}
+.topic-China{
+	fill:rgb(253,180,98);
+	background:rgb(253,180,98);
+}
+.topic-GovernmentSpending{
+	fill:rgb(179,222,105);
+	background:rgb(179,222,105);
+}
+.topic-TheEnvironmentEPAEnergyPolicy{
+	fill:rgb(252,205,229);
+	background:rgb(252,205,229);
+}
+.topic-VotingLaw{
+	fill:rgb(217,217,217);
+	background:rgb(217,217,217);
+}
+.topic-GovernmentEthics{
+	fill:rgb(188,128,189);
+	background:rgb(188,128,189);
+}
+.topic-NorthKorea{
+	fill:rgb(204,235,197);
+	background:rgb(204,235,197);
+}
+.topic-IntelligenceGatheringTheNSAPrivacy{
+	fill:rgb(255,237,111);
+	background:rgb(255,237,111);
+}
